@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-
 # File Integrity Checker
 
 *File Integrity Checker* is a Bash-based tool for monitoring and verifying the integrity of files on a Linux system. It computes checksums of specified files and compares them to a known baseline to detect any unauthorized changes. With features like colorized terminal output, automated cron scheduling, logging, and email alerts, this script helps ensure you are quickly notified of any modifications to your critical files.
@@ -26,8 +24,7 @@ Make sure you have the following available on your system:
 To set up the File Integrity Checker on your system, follow these steps:
 
 1. **Clone the repository**: Download or clone the project repository to your local machine. For example:  
-   ```bash
- https://github.com/maqsudov-r-auca-2023/Information-Security.git 
+   ```bash https://github.com/maqsudov-r-auca-2023/Project-Info-Sec-file-integrity-checker.git 
    ```  
 
 2. **Navigate to the project directory**:  
@@ -110,6 +107,3 @@ By setting up email notifications, you can have peace of mind that you'll be ale
 ## Author
 
 - **Rahmonbek Maqsudov** – ID: 11244, Group: SFW-122
-=======
-# Information-Security
->>>>>>> d5b34b51a8a16016c26b3a92badb6f02e67d24a9
