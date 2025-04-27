@@ -7,7 +7,7 @@ YELLOW="\e[33m"
 RESET="\e[0m"
 
 # ===== Config =====
-HASH_FILE="./hashes.db"
+HASH_FILE="/home/vagrant/file-integrity-checker/hashes.db"
 LOG_FILE="./integrity_check.log"
 
 # ===== Usage =====
