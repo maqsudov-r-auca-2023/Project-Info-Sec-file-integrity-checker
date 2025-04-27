@@ -1,0 +1,11 @@
+[33m🔍 Checking file integrity...[0m
+[32m✅ Integrity check completed.[0m
+[33m🔍 Checking file integrity...[0m
+/home/vagrant/file-integrity-checker/integrity_checker.sh: line 49: ./hashes.db: No such file or directory
+[32m✅ Integrity check completed.[0m
+[33m🔍 Checking file integrity...[0m
+/home/vagrant/file-integrity-checker/integrity_checker.sh: line 49: ./hashes.db: No such file or directory
+[32m✅ Integrity check completed.[0m
+[33m🔍 Checking file integrity...[0m
+/home/vagrant/file-integrity-checker/integrity_checker.sh: line 49: ./hashes.db: No such file or directory
+[32m✅ Integrity check completed.[0m
